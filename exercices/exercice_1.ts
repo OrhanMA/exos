@@ -23,7 +23,7 @@ function declareWinner(clientTicket: number) {
     console.log("Dommage... Voulez-vous rejouer?");
   }
 }
-declareWinner(5);
+/* declareWinner(5); */
 // Exerice # 2
 
 // - Écrivez la suite d'actions à réaliser pour connaitre le montant des courses du clients TTC.
@@ -68,7 +68,7 @@ const country = "France";
 function displayCountry(countryName: string) {
   console.log(countryName);
 }
-displayCountry(country);
+/* displayCountry(country); */
 
 // Exercice # 5
 
@@ -81,5 +81,5 @@ function displayName(firstName: string, lastName: string) {
   console.log(`My name is ${firstName} and my last name is ${lastName}`);
   console.log(firstName + lastName);
 }
-
-displayName("Chris", "Moron");
+/* 
+displayName("Chris", "Moron"); */
